@@ -1,3 +1,4 @@
+// One line, one queue, one complaint: QueueBuddy holds your spot and texts you when it's your turn.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line =
